@@ -1,6 +1,6 @@
 # Workout App
 
-This is a workout app developed in Android Studio using Kotlin. The app allows users to start a 7-minute workout session, calculate their BMI, and view their exercise history. It incorporates a timer for rest time and exercise duration, displays exercise images, and stores exercise completion times in a Room database.
+This is a workout app developed in Android Studio using Kotlin with Android 12. The app allows users to start a 7-minute workout session, calculate their BMI, and view their exercise history. It incorporates a timer for rest time and exercise duration, displays exercise images, and stores exercise completion times in a Room database.
 
 ## Features
 
